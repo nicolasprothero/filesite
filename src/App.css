@@ -1,0 +1,28 @@
+
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#mainIllustration {
+  height: 420px;
+}
+
+#copyIcon {
+  height: 30px;
+  margin: 10px;
+}
+
+.main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.sides {
+  margin: auto;
+  width: 50%;
+}

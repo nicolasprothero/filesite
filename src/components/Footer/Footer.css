@@ -1,0 +1,14 @@
+.footer {
+    width: 400px;
+    padding: 20px;
+    place-items: start;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.clickText {
+    cursor: pointer;
+}
